@@ -1,1 +1,1 @@
-The dataset is a collection of many highly occluded and reflective and contrasting image. You  can access it [here](https://drive.google.com/file/d/1PymqSO6JzRUrR2CCHDUlJmfGjcitWeJd/view?usp=sharing)
+The dataset is a collection of many highly occluded and reflective and contrasting image. It can be used as a classification dataset. One needs to apply aggressive transformations in order to get good results on a classification model. You  can access it [here](https://drive.google.com/file/d/1PymqSO6JzRUrR2CCHDUlJmfGjcitWeJd/view?usp=sharing)
