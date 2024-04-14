@@ -1,2 +1,2 @@
 # CNN-and-FCN
-Creating CNN and FCN. Assignment on supertux(classification) and dense supertux(segmentation) dataset. 
+Creating CNN and FCN. Models were trained on supertux(classification) and dense supertux(segmentation) dataset. A modified U-net like architecture for segmentation task was coded and trained using weighted per-pixel entropy loss to compensate for skewed nature of dataset. A shorter Resnet-like architecture was coded and trained on the dataset after applications of aggressive image transforms for good results.
